@@ -1,5 +1,4 @@
 #include <curses.h>
-#include <math.h>
 
 const float ACCELERATION = -9.8;
 
